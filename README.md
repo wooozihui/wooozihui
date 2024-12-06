@@ -12,7 +12,7 @@ These days, I'm captivated by the **security of large language models**. This ar
 
 - **July 2024**: I unveiled [**JailbreakFunction**](https://arxiv.org/pdf/2407.17915v3), pioneering work that exposed jailbreak vulnerabilities in the function calling capabilities of large language models. This was a thrilling discovery that pushed boundaries!
 
-- **October 2024**: I launched [**GlitchMiner**](https://arxiv.org/pdf/2410.15052), an innovative method designed to efficiently mine Glitch Tokens, ensuring models remain free from hallucination-inducing glitches.
+- **October 2024**: I launched [**GlitchMiner**](https://arxiv.org/pdf/2410.15052), an innovative method designed to efficiently detect Glitch Tokens, ensuring models remain free from hallucination-inducing glitches.
 
 ### Future Aspirations
 
