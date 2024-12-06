@@ -16,8 +16,7 @@ These days, I'm captivated by the **security of large language models**. This ar
 
 ## Future Aspirations
 
-Looking ahead, I am eager to continue my journey of discovery and hope to contribute more groundbreaking work to the field. I am optimistic that good fortune will accompany my endeavors in the world of academia.
-
+Looking ahead, I am eager to continue my journey of discovery and hope to contribute more groundbreaking work to the field. I am optimistic that good fortune will accompany my endeavors in the world of academia, and I am particularly hopeful about building a network of collaborations that can transform solitude into synergy.
 ---
 
 Thank you for stopping by! If my research intrigues you or if you have any insights to share, don't hesitate to reach out. Let's connect and explore the future of AI together!
