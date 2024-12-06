@@ -1,6 +1,6 @@
 # About Me
 
-Hello there! I'm Zihui Wu, a passionate Ph.D. student from the 2022 cohort at Xidian University, diving deep into the fascinating world of AI and machine learning.
+Hello there! I'm Zihui Wu, a Ph.D. student from the 2022 cohort at Xidian University, diving deep into the fascinating world of AI and machine learning.
 
 ## Research Interests
 
