@@ -20,4 +20,4 @@ Looking ahead, I am eager to continue my journey of discovery and hope to contri
 
 ---
 
-Thank you for stopping by! If my research intrigues you or if you have any insights to share, don't hesitate to reach out. Let's connect and explore the future of AI together!
+Thank you for stopping by! If my research intrigues you or if you have any insights to share, don't hesitate to reach out. You can contact me at [zihui@stu.xidian.edu.cn]. Let's connect and explore the future of AI together!
