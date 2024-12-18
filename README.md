@@ -1,7 +1,11 @@
 # About Me
 
 Hello there! I'm Zihui Wu, a Ph.D. student from the 2022 cohort at Xidian University, diving deep into the fascinating world of AI and machine learning.
-You can also consider me an independent researcher, as my supervisor has not provided any support.
+
+<details>
+  <summary>Additional Information</summary>
+  You can also consider me an independent researcher, as my supervisor has not provided any support.
+</details>
 
 ## Research Interests
 
