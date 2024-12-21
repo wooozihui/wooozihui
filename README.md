@@ -4,7 +4,7 @@ Hello there! I'm Zihui Wu, a Ph.D. student from the 2022 cohort at Xidian Univer
 
 <details>
   <summary>Additional Information</summary>
-  You can also consider me an independent researcher, as my supervisor has not provided any support yet.
+  You can also consider me an independent researcher.
 </details>
 
 ## Research Interests
