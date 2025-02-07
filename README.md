@@ -19,6 +19,8 @@ These days, I'm captivated by the **security of large language models**. This ar
 
 - **October 2024**: I launched [**GlitchMiner**](https://arxiv.org/pdf/2410.15052), an innovative method designed to efficiently detect Glitch Tokens, ensuring models remain free from hallucination-inducing glitches.
 
+- **January 2025**: Proposed [**HumorReject**](https://arxiv.org/pdf/2501.13677), a humor-based data-driven approch for LLM safety against prefix injection attacks.
+
 ### Future Aspirations
 
 Looking ahead, I am eager to continue my journey of discovery and hope to contribute more groundbreaking work to the field. I am optimistic that good fortune will accompany my endeavors in the world of academia, and I am particularly hopeful about building a network of collaborations that can transform solitude into synergy.
